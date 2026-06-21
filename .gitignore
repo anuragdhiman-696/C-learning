@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Compiled C files
+*.exe
+*.out
+*.o
+*.obj
