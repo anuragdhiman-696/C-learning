@@ -1,0 +1,7 @@
+/* Operators
+a. Arithmetic Operators
+b. Relational Operators
+c. Logical Operators
+d. Bitwise Operators
+e. Assignment Operators
+f. Ternary Operator */
