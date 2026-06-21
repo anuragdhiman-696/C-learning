@@ -1,0 +1,1 @@
+//wap to find the maximum number between two numbers using a pointer
