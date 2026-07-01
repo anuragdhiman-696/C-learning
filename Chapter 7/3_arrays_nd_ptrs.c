@@ -7,7 +7,7 @@ int main(){
     int *ptr = marks;
 
     printf("%u\n",ptr);
-    printf("%u\n",&marks[0]);
+    printf("%u\n",&marks[0]); //address of 0th location
 
     return 0;
 }

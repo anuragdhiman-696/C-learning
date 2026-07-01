@@ -21,3 +21,6 @@ printf("comparision = %u\n",ptr == _ptr);
 
 return 0;
 }
+//float and char arrays unke size se badhegi
+//float - 4 bytes and char - 1 bytes  
+// while subtracting the pointer datatype should be same
